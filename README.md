@@ -1,36 +1,42 @@
-# QA-portfolioQA PORTFOLIO
-ABOUT ME
-CV
-SKILLS
-TOOLS
-EXAMPLES OF PRACTICAL WORK
-ABOUT ME
-My name is Kenan Karić. On this site I would like to share my all gained experience from personal studies and researches. In December I finished the course of QA and software tester at ITAcademy in Sarajevo. Regarding my formal education I have finished the BA of Journalism/Communicology at the Faculty of political sciences in Sarajevo.
+# QA PORTFOLIO
 
-Currently I am working as a multimedia journalist at Oslobodjenje media group in Sarajevo. However I want to pursue the career of QA and to develop in that field in the future.
+## Navigation
+- [About Me](#about-me)
+- [CV](#cv)
+- [Skills](#skills)
+- [Examples of Practical Work](#examples-of-practical-work)
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. In the next sections of this portfolio I will present you with with the practical work I have done so far.
+---
 
-CV
+## ABOUT ME
+
+Tôi là Toản. Tại trang web này, tôi muốn chia sẻ tất cả những kinh nghiệm mà mình đã tích lũy được thông qua quá trình tự học và nghiên cứu cá nhân.  
+Về trình độ học vấn chính quy, tôi đã tốt nghiệp Cử nhân chuyên ngành Công nghệ phần mềm tại Đại học Ngoại ngữ - Tin học TP.HCM.
+
+Hiện tại tôi mong muốn phát triển sự nghiệp trong lĩnh vực kiểm thử phần mềm, đặc biệt ở vai trò QC Engineer.  
+Luôn chú trọng chi tiết, kỷ luật và hiệu quả trong công việc, tôi hướng đến việc xây dựng sản phẩm chất lượng, ổn định và thân thiện với người dùng.
+
+---
+
+## CV
+
 Here you can download my CV as a PDF file from my Google Drive account.
 
-SKILLS
-can perform manual testing of a web application
-can write a test plan documentation with test book
-worked in kanban and agile form though Trello while writing python scripts for educational purposes at ITAcademy
-manual testing of RESTful API's through Postman
-using JMeter for basic performance testing
-used MySQL fundamentals and edited easy queries
-brief Wireshark testing
-writting basic python scripts and using Selenium
-brief Unit testing knowledge
-TOOLS
-Apache JMeter - performance testing
-Postman - testing tool for RESTful API's
-SeleniumIDE - writing automated test scripts for web application testing
-Trello
-Microsoft Visual Studio Code - used for writing python scripts
-EXAMPLES OF PRACTICAL WORK
-Here you can DOWNLOAD MY PRACTICAL WORK that was used for educational purposes and in the ITAcademy. There you will find API testing, JMeter testing, full documentation of a test plan and test book, as well as the scripts that were used in automation testing.
+👉 [Download My CV](https://drive.google.com/drive/folders/1Bcr8ijfEkQtsy_yh2Pro1AawL5shzLfO)
 
-In the near future there will be more fun stuff posted as my skills of using GitHub improves and when I find more interesting projects to work on (:
+---
+
+## SKILLS
+
+- Manual Testing (Test Case Design, Test Execution, Bug Reporting)
+- Regression Testing, Functional & Non-functional Testing
+- SQL cơ bản (truy vấn dữ liệu để kiểm tra input/output)
+- Bug Tracking (Jira, Trello) – ghi nhận và theo dõi lỗi rõ ràng
+
+---
+
+## EXAMPLES OF PRACTICAL WORK
+
+Here you can download my practical work completed for educational purposes 
+
+👉 [Download My Practical Work](https://drive.google.com/drive/folders/1L9o5JxYzjHWXUqc79oIqoZSGSiE3L_6B)
